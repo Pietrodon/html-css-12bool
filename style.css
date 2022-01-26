@@ -23,6 +23,13 @@ h2{
     display: flex;
     flex-wrap: wrap;
     text-align: center;
+    justify-content: flex-start;
+}
+.start{
+    margin: 0;
+}
+.end{
+    margin-right: 0;
 }
 .col-1{
     flex-basis: calc((100% / 12) * 1);
