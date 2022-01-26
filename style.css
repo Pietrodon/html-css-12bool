@@ -16,6 +16,9 @@
 .container{
     width: 1170px;
 }
+h2{
+    padding: 15px;
+}
 .row{
     display: flex;
     flex-wrap: wrap;
